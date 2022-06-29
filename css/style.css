@@ -1,0 +1,28 @@
+body{
+    font-family: 'Oxygen', sans-serif;
+}
+.header{
+    height: 90vh;
+    width: 100%;
+
+    color: white;
+    background: linear-gradient(to right, rgb(26, 118, 203), rgba(206, 43, 89, 0.5) ), url(https://images.pexels.com/photos/7988087/pexels-photo-7988087.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    
+}
+.h-100{
+    height: 100%;
+    width: 100%;
+}
+.btn{
+    border-radius: 10rem!important;
+    padding: 1.25rem 2.24rem!important;
+    
+}
+.massage{
+    background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
+}
+.myicon{
+    font-size: 100px;
+    padding: 20px;
+}
